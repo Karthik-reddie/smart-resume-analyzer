@@ -1,0 +1,2 @@
+Frontend E2E test placeholder - not implemented in this MVP step.
+

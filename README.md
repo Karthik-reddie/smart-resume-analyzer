@@ -377,17 +377,6 @@ Contributions are welcome for:
 
 ---
 
-# 📄 License
-
-Add your preferred license here.
-
-Example:
-
-```text
-MIT License
-```
-
----
 
 # 👨‍💻 Author
 
